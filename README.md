@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front end developer. Lover of cats and music.<br><br>I have 3 years of experience as a Front End Web developer. <br>I am currently taking courses about React Native and Nodejs
+I am a full stack developer. Lover of cats and music.<br><br>I have 4 years of experience as a Front End Web developer. <br>I am currently taking courses about React Native and Nodejs
 
 
 ## 🌐 Socials:
